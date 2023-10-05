@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanilishend:purpil_fruit_block"
+    }
+  ],
+  "result": {
+    "item": "vanilishend:purpil_fruit",
+    "count": 9
+  }
+}

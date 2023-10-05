@@ -1,0 +1,23 @@
+{
+  "_fv": 47,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Switching Dimension",
+    "icon": "portal_texture1.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "SpawnProendSpawnPlatformPotion"
+    },
+    "onActiveTick": {
+      "name": "SpawnProendSpawnPlatformPotion"
+    }
+  }
+}

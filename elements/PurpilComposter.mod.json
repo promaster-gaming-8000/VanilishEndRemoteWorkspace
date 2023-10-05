@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_purpil",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      },
+      {
+        "value": "CUSTOM:PurpilSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.COMPOSTER"
+    },
+    "name": "purpil_composter",
+    "namespace": "minecraft"
+  }
+}

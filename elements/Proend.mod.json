@@ -1,0 +1,69 @@
+{
+  "_fv": 47,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "end_highlands"
+      },
+      {
+        "value": "small_end_islands"
+      },
+      {
+        "value": "CUSTOM:PurpilPlains"
+      },
+      {
+        "value": "CUSTOM:Purpil"
+      },
+      {
+        "value": "CUSTOM:Bloom"
+      },
+      {
+        "value": "CUSTOM:EndMountain"
+      },
+      {
+        "value": "CUSTOM:CorruptedEndBiome"
+      },
+      {
+        "value": "CUSTOM:BloomingFalls"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.END_STONE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -16187380,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:PurpilWood"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": ""
+    },
+    "enableIgniter": true,
+    "igniterName": "Proend Portal Igniter",
+    "specialInfo": [],
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "endinite_pickaxe",
+    "portalTexture": "purpil_pytum_top",
+    "enablePortal": false
+  }
+}

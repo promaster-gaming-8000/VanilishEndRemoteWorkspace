@@ -1,0 +1,141 @@
+{
+  "stepping_on_purpil_pytum": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:purpilpytumsteppingsound1",
+        "stream": false
+      }
+    ]
+  },
+  "stepping_on_purplet_block1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:steppingpurpletblock",
+        "stream": false
+      }
+    ]
+  },
+  "placing_purpil_pytum": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:placingpurpilpytumsound1",
+        "stream": false
+      }
+    ]
+  },
+  "breaking_purpil_pytum": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:breakingpurpilpytumsound1",
+        "stream": false
+      }
+    ]
+  },
+  "placing_purplet_block1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:placingpurplet1",
+        "stream": false
+      }
+    ]
+  },
+  "breaking_purplet_block1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:breakingpurplet1",
+        "stream": false
+      }
+    ]
+  },
+  "purpil_life": {
+    "category": "ambient",
+    "subtitle": "subtitles.purpil_life",
+    "sounds": [
+      {
+        "name": "vanilishend:purpilbiomeambientsounds1",
+        "stream": false
+      }
+    ]
+  },
+  "bloom.ambient": {
+    "category": "ambient",
+    "subtitle": "subtitles.bloom.ambient",
+    "sounds": [
+      {
+        "name": "vanilishend:bloom_biome_music_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_fly.death": {
+    "category": "hostile",
+    "subtitle": "subtitles.bloom_fly.death",
+    "sounds": [
+      {
+        "name": "vanilishend:bloom_fly.death1",
+        "stream": false
+      },
+      {
+        "name": "vanilishend:bloom_fly.death2",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_fly.hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.bloom_fly.hurt",
+    "sounds": [
+      {
+        "name": "vanilishend:bloom_fly.hurt1",
+        "stream": false
+      },
+      {
+        "name": "vanilishend:bloom_fly.hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_fly.loop": {
+    "category": "neutral",
+    "subtitle": "subtitles.bloom_fly.loop",
+    "sounds": [
+      {
+        "name": "vanilishend:bloom_fly.loop1",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_pytum_place1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:bloompytumplace1",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_pytum_breaking1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:bloompytumbreak1",
+        "stream": false
+      }
+    ]
+  },
+  "bloom_pytum_stepping1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "vanilishend:bloompytumstep1",
+        "stream": false
+      }
+    ]
+  }
+}

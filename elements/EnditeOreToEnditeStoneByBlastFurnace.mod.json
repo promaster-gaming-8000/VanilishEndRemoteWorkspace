@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "endite",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Endite"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:EnditeStone"
+    },
+    "name": "endite_ore_to_endite_stone_by_blast_furnace",
+    "namespace": "minecraft"
+  }
+}

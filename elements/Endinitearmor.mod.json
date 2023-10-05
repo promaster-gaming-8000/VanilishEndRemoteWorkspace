@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Endinite.helmet"
+      },
+      {
+        "value": "CUSTOM:Endinite.body"
+      },
+      {
+        "value": "CUSTOM:Endinite.legs"
+      },
+      {
+        "value": "CUSTOM:Endinite.boots"
+      },
+      {
+        "value": "CUSTOM:DiamondEndinite.helmet"
+      },
+      {
+        "value": "CUSTOM:DiamondEndinite.body"
+      },
+      {
+        "value": "CUSTOM:DiamondEndinite.legs"
+      },
+      {
+        "value": "CUSTOM:DiamondEndinite.boots"
+      },
+      {
+        "value": "CUSTOM:NetheriteEndinite.helmet"
+      },
+      {
+        "value": "CUSTOM:NetheriteEndinite.body"
+      },
+      {
+        "value": "CUSTOM:NetheriteEndinite.legs"
+      },
+      {
+        "value": "CUSTOM:NetheriteEndinite.boots"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "endinitearmor",
+    "namespace": "minecraft"
+  }
+}

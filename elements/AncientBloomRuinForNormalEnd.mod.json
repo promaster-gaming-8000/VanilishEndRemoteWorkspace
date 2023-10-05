@@ -1,0 +1,47 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "ancientbloomruin_fornormalend",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "CUSTOM:Proend"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "CUSTOM:BloomPytum"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_highlands"
+      },
+      {
+        "value": "end_midlands"
+      },
+      {
+        "value": "end_barrens"
+      },
+      {
+        "value": "small_end_islands"
+      },
+      {
+        "value": "the_end"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "burned_endstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:burned_endstone_bricks"
+    },
+    "1": {
+      "item": "vanilishend:burned_endstone_bricks"
+    },
+    "2": {
+      "item": "vanilishend:burned_endstone_bricks"
+    },
+    "3": {
+      "item": "vanilishend:burned_endstone_bricks"
+    },
+    "4": {
+      "item": "vanilishend:burned_endstone_bricks"
+    },
+    "5": {
+      "item": "vanilishend:burned_endstone_bricks"
+    }
+  },
+  "result": {
+    "item": "vanilishend:burned_endstone_brick_wall",
+    "count": 6
+  }
+}

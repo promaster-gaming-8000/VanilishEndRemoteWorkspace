@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "purpil_extra",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "Items.BOOK"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BOOKSHELF"
+    },
+    "name": "purpil_bookshelf_recipe",
+    "namespace": "minecraft"
+  }
+}

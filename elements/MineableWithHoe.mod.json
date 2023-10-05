@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Purplet"
+      },
+      {
+        "value": "CUSTOM:Bloomblet"
+      },
+      {
+        "value": "CUSTOM:BloomLuminance"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "mineable/hoe",
+    "namespace": "minecraft"
+  }
+}

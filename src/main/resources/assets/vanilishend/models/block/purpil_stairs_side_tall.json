@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "vanilishend:blocks/purpil_planks",
+    "particle": "vanilishend:blocks/purpil_planks"
+  }
+}

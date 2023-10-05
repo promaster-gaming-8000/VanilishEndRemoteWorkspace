@@ -1,0 +1,13 @@
+{
+  "group": "purpil",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanilishend:purpil_wood"
+    }
+  ],
+  "result": {
+    "item": "vanilishend:purpil_planks",
+    "count": 4
+  }
+}

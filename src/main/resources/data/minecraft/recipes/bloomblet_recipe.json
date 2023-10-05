@@ -1,0 +1,42 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "1": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "2": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "3": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "4": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "5": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "6": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "7": {
+      "item": "vanilishend:bloom_sprout"
+    },
+    "8": {
+      "item": "vanilishend:bloom_sprout"
+    }
+  },
+  "result": {
+    "item": "vanilishend:bloomblet",
+    "count": 1
+  }
+}

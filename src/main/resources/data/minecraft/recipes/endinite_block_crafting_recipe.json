@@ -1,0 +1,42 @@
+{
+  "group": "endinite_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "1": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "2": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "3": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "4": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "5": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "6": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "7": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "8": {
+      "item": "vanilishend:endinite_ingot"
+    }
+  },
+  "result": {
+    "item": "vanilishend:endinite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "bloom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloomSlab"
+    },
+    "name": "bloom_slab_recipe",
+    "namespace": "minecraft"
+  }
+}

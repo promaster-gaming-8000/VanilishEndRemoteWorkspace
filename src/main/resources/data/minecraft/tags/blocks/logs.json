@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "vanilishend:bloom_stalk",
+    "vanilishend:corrupted_stalk",
+    "vanilishend:stripped_bloom_stalk",
+    "vanilishend:stripped_purpil_stalk",
+    "vanilishend:purpil_stalk"
+  ]
+}

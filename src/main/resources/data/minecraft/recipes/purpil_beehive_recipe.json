@@ -1,0 +1,42 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "1": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "2": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "3": {
+      "item": "minecraft:honeycomb"
+    },
+    "4": {
+      "item": "minecraft:honeycomb"
+    },
+    "5": {
+      "item": "minecraft:honeycomb"
+    },
+    "6": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "7": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "8": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:beehive",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanilishend:purpil_fruit"
+    }
+  ],
+  "result": {
+    "item": "minecraft:chorus_fruit",
+    "count": 1
+  }
+}

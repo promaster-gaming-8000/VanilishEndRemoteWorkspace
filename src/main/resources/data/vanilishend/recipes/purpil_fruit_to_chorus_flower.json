@@ -1,0 +1,26 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "1": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "2": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "3": {
+      "item": "vanilishend:purpil_fruit"
+    }
+  },
+  "result": {
+    "item": "minecraft:chorus_flower",
+    "count": 1
+  }
+}

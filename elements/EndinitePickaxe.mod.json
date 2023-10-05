@@ -1,0 +1,43 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endinite_pickaxe",
+    "customModelName": "Normal",
+    "name": "Endinite Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 4.0,
+    "enchantability": 20,
+    "damageVsEntity": 1.0,
+    "usageCount": 4062,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnditeGem"
+      },
+      {
+        "value": "CUSTOM:EnditeStone"
+      },
+      {
+        "value": "CUSTOM:EndiniteIngot"
+      },
+      {
+        "value": "CUSTOM:EndinitePickaxe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "EndinitePickaxeToolInHandTick"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "flooded_bloom_tree_small",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 900000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End",
+      "CUSTOM:Proend"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BloomPytum"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Bloom"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

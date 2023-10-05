@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_burned_endstone",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:BurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:BurnedEndstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BREWING_STAND"
+    },
+    "name": "burned_endstone_brewing_stand_recipe",
+    "namespace": "minecraft"
+  }
+}

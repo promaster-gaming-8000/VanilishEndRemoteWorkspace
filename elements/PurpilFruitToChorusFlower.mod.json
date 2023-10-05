@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_purpil",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpilFruit"
+      },
+      {
+        "value": "CUSTOM:PurpilFruit"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpilFruit"
+      },
+      {
+        "value": "CUSTOM:PurpilFruit"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CHORUS_FLOWER"
+    },
+    "name": "purpil_fruit_to_chorus_flower",
+    "namespace": "mod"
+  }
+}

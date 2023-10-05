@@ -1,0 +1,43 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endinite_sword",
+    "customModelName": "Normal",
+    "name": "Endinite Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 0.9,
+    "enchantability": 20,
+    "damageVsEntity": 9.0,
+    "usageCount": 4062,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnditeGem"
+      },
+      {
+        "value": "CUSTOM:EnditeStone"
+      },
+      {
+        "value": "CUSTOM:EndiniteIngot"
+      },
+      {
+        "value": "CUSTOM:EndiniteSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "EndiniteSwordToolInHandTick"
+    }
+  }
+}

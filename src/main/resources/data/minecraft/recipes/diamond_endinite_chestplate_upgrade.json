@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "addition": {
+    "item": "vanilishend:endinite_ingot"
+  },
+  "result": {
+    "item": "vanilishend:diamond_endinite_chestplate"
+  }
+}

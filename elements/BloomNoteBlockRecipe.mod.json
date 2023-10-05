@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_bloom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.NOTEBLOCK"
+    },
+    "name": "bloom_note_block_recipe",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_purpil",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpilPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SHIELD"
+    },
+    "name": "purpil_shield_recipe",
+    "namespace": "minecraft"
+  }
+}

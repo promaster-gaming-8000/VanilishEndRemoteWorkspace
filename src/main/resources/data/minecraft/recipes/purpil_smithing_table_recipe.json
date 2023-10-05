@@ -1,0 +1,33 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "3": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "4": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "5": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:smithing_table",
+    "count": 1
+  }
+}

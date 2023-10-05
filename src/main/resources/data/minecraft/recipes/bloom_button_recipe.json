@@ -1,0 +1,13 @@
+{
+  "group": "bloom",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanilishend:bloom_planks"
+    }
+  ],
+  "result": {
+    "item": "vanilishend:bloom_button",
+    "count": 1
+  }
+}

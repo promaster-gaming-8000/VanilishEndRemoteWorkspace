@@ -1,0 +1,39 @@
+{
+  "group": "extra_burned_endstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "1": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "2": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "3": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "5": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "6": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "item": "vanilishend:burned_endstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}

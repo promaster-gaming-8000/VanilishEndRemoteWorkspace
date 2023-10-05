@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bloom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloomStalk"
+      },
+      {
+        "value": "CUSTOM:BloomStalk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloomStalk"
+      },
+      {
+        "value": "CUSTOM:BloomStalk"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloomWood"
+    },
+    "name": "bloom_wood_recipe",
+    "namespace": "minecraft"
+  }
+}

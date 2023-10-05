@@ -1,0 +1,22 @@
+{
+  "group": "purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "1": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "2": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "vanilishend:purpil_slab",
+    "count": 6
+  }
+}

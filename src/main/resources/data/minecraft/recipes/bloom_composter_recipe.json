@@ -1,0 +1,36 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "2": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "3": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "5": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "6": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "7": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "8": {
+      "item": "vanilishend:bloom_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:composter",
+    "count": 1
+  }
+}

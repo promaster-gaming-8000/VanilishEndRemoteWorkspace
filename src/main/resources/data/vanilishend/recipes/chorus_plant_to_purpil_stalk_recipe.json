@@ -1,0 +1,26 @@
+{
+  "group": "extra_puril",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chorus_plant"
+    },
+    "1": {
+      "item": "minecraft:chorus_plant"
+    },
+    "2": {
+      "item": "minecraft:chorus_plant"
+    },
+    "3": {
+      "item": "minecraft:chorus_plant"
+    }
+  },
+  "result": {
+    "item": "vanilishend:purpil_stalk",
+    "count": 4
+  }
+}

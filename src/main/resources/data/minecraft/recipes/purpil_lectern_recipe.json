@@ -1,0 +1,30 @@
+{
+  "group": "purpil_extra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "1": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "2": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "4": {
+      "item": "minecraft:bookshelf"
+    },
+    "7": {
+      "item": "vanilishend:purpil_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:lectern",
+    "count": 1
+  }
+}

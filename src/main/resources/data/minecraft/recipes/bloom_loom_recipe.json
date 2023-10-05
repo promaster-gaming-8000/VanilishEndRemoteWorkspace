@@ -1,0 +1,26 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "3": {
+      "item": "vanilishend:bloom_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:loom",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "vanilishend:endinite_ingot"
+  },
+  "result": {
+    "item": "vanilishend:diamond_endinite_helmet"
+  }
+}

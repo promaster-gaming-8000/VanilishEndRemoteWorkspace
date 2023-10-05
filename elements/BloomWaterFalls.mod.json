@@ -1,0 +1,36 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "bloom_fall_tower_new2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 200000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -4,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End",
+      "CUSTOM:Proend"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BloomPytum"
+      },
+      {
+        "value": "CUSTOM:BloomPowder"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BloomingFalls"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "2": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "4": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:bowl",
+    "count": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bloom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": "CUSTOM:BloomPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloomDoor"
+    },
+    "name": "bloom_door_recipe",
+    "namespace": "minecraft"
+  }
+}

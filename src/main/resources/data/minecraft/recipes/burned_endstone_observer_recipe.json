@@ -1,0 +1,42 @@
+{
+  "group": "extra_burned_endstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "1": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "2": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    },
+    "6": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "7": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "8": {
+      "item": "vanilishend:burned_endstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer",
+    "count": 1
+  }
+}

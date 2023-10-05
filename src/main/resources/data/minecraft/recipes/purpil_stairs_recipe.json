@@ -1,0 +1,33 @@
+{
+  "group": "purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "3": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "4": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "6": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "7": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "8": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "vanilishend:purpil_stairs",
+    "count": 4
+  }
+}

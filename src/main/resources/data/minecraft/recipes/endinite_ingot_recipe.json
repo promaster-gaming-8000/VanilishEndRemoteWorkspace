@@ -1,0 +1,22 @@
+{
+  "group": "endite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanilishend:endite_stone"
+    },
+    {
+      "item": "vanilishend:endite_gem"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "vanilishend:endite_gem"
+    }
+  ],
+  "result": {
+    "item": "vanilishend:endinite_ingot",
+    "count": 1
+  }
+}

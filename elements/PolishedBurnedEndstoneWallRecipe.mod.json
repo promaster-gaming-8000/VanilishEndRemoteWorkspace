@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "burned_endstone",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBurnedEndstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedBurnedEndstoneWall"
+    },
+    "name": "polished_burned_endstone_wall_recipe",
+    "namespace": "minecraft"
+  }
+}

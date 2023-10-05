@@ -1,0 +1,26 @@
+{
+  "group": "extra_burned_endstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "3": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "4": {
+      "item": "vanilishend:burned_endstone"
+    },
+    "5": {
+      "item": "vanilishend:burned_endstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:brewing_stand",
+    "count": 1
+  }
+}

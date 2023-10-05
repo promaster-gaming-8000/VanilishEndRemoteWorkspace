@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "1": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "2": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "3": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "4": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "5": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "6": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "7": {
+      "item": "vanilishend:purpil_fruit"
+    },
+    "8": {
+      "item": "vanilishend:purpil_fruit"
+    }
+  },
+  "result": {
+    "item": "vanilishend:purpil_fruit_block",
+    "count": 1
+  }
+}

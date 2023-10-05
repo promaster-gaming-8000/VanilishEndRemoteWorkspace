@@ -1,0 +1,36 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "2": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "3": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "5": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "6": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "7": {
+      "item": "vanilishend:purpil_slab"
+    },
+    "8": {
+      "item": "vanilishend:purpil_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:composter",
+    "count": 1
+  }
+}

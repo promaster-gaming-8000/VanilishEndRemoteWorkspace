@@ -1,0 +1,34 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "large_bloom_tree",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "End",
+      "CUSTOM:Proend"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BloomPytum"
+      },
+      {
+        "value": "CUSTOM:BloomPowder"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Bloom"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

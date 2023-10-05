@@ -1,0 +1,42 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "1": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "2": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "3": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "6": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "7": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "8": {
+      "item": "vanilishend:bloom_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:jukebox",
+    "count": 1
+  }
+}

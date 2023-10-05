@@ -1,0 +1,36 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "purpil_bush",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 500000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "End",
+      "CUSTOM:Proend",
+      "Surface",
+      "Nether"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:PurpilPytum"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Purpil"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

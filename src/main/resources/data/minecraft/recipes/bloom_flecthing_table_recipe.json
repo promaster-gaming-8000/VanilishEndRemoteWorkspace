@@ -1,0 +1,33 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint"
+    },
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "2": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "3": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "4": {
+      "item": "vanilishend:bloom_planks"
+    },
+    "5": {
+      "item": "vanilishend:bloom_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:fletching_table",
+    "count": 1
+  }
+}

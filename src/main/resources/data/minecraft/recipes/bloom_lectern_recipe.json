@@ -1,0 +1,30 @@
+{
+  "group": "extra_bloom",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "1": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "2": {
+      "item": "vanilishend:bloom_slab"
+    },
+    "4": {
+      "item": "minecraft:bookshelf"
+    },
+    "7": {
+      "item": "vanilishend:bloom_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:lectern",
+    "count": 1
+  }
+}

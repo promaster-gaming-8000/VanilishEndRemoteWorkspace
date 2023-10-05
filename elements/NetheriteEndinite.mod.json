@@ -1,0 +1,83 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "netherite_endinite_helmet",
+    "enableBody": true,
+    "textureBody": "netherite_endinite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "netherite_endinite_leggings",
+    "enableBoots": true,
+    "textureBoots": "netherite_endinite_boots",
+    "onHelmetTick": {
+      "name": "NetheriteEndiniteHelmetAbility"
+    },
+    "onBodyTick": {
+      "name": "NetheriteEndiniteChestplateAbility"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "netherite_endinite",
+    "helmetName": "Netherite Endinite Helmet",
+    "bodyName": "Netherite Endinite Chestplate",
+    "leggingsName": "Netherite Endinite Leggings",
+    "bootsName": "Netherite Endinite Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 40,
+    "damageValueHelmet": 7,
+    "damageValueBody": 12,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 7,
+    "enchantability": 9,
+    "toughness": 2.5,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnditeGem"
+      },
+      {
+        "value": "CUSTOM:EnditeStone"
+      },
+      {
+        "value": "CUSTOM:EndiniteIngot"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ]
+  }
+}

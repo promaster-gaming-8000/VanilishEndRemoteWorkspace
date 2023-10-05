@@ -1,0 +1,26 @@
+{
+  "group": "purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_stalk"
+    },
+    "1": {
+      "item": "vanilishend:purpil_stalk"
+    },
+    "2": {
+      "item": "vanilishend:purpil_stalk"
+    },
+    "3": {
+      "item": "vanilishend:purpil_stalk"
+    }
+  },
+  "result": {
+    "item": "vanilishend:purpil_wood",
+    "count": 3
+  }
+}

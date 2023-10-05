@@ -1,0 +1,107 @@
+{
+  "_fv": 43,
+  "_type": "biome",
+  "definition": {
+    "name": "Corrupted End Biome",
+    "groundBlock": {
+      "value": "CUSTOM:CorruptedEndstone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:CorruptedEndstone"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:CorruptedEndstone"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:PurpilLife"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.0,
+    "temperature": 0.5,
+    "spawnBiome": false,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.1,
+      "max": 0.1
+    },
+    "genHumidity": {
+      "min": -1.1,
+      "max": -0.9
+    },
+    "genContinentalness": {
+      "min": 0.41000000000000003,
+      "max": 0.61
+    },
+    "genErosion": {
+      "min": 0.7000000000000001,
+      "max": 0.9
+    },
+    "genWeirdness": {
+      "min": -1.0250353045658864,
+      "max": -0.8250353045658864
+    },
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "ForestGrass",
+      "DefaultFlowers"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": true,
+    "spawnRuinedPortal": "STANDARD",
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "extra_purpil",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purplet"
+    },
+    "1": {
+      "item": "vanilishend:purplet"
+    },
+    "2": {
+      "item": "vanilishend:purplet"
+    },
+    "3": {
+      "item": "vanilishend:purplet"
+    },
+    "4": {
+      "item": "vanilishend:purplet"
+    },
+    "5": {
+      "item": "vanilishend:purplet"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:magenta_banner",
+    "count": 1
+  }
+}

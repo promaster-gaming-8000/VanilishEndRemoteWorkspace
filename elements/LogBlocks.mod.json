@@ -1,0 +1,30 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:PurpilStalk"
+      },
+      {
+        "value": "CUSTOM:BloomStalk"
+      },
+      {
+        "value": "CUSTOM:StrippedPurpilStalk"
+      },
+      {
+        "value": "CUSTOM:StrippedBloomStalk"
+      },
+      {
+        "value": "CUSTOM:CorruptedStalk"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

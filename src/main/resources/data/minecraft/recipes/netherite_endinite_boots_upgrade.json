@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "addition": {
+    "item": "vanilishend:endinite_ingot"
+  },
+  "result": {
+    "item": "vanilishend:netherite_endinite_boots"
+  }
+}

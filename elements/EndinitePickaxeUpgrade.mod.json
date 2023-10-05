@@ -1,0 +1,25 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "endinite_tools",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_PICKAXE"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:EndiniteIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:EndinitePickaxe"
+    },
+    "name": "endinite_pickaxe_upgrade",
+    "namespace": "minecraft"
+  }
+}

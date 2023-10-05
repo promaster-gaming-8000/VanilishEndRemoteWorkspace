@@ -1,0 +1,40 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endinite_hoe",
+    "customModelName": "Normal",
+    "name": "Endinite Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 5.0,
+    "enchantability": 20,
+    "damageVsEntity": 1.0,
+    "usageCount": 4062,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnditeGem"
+      },
+      {
+        "value": "CUSTOM:EnditeStone"
+      },
+      {
+        "value": "CUSTOM:EndiniteIngot"
+      },
+      {
+        "value": "CUSTOM:EndiniteHoe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "old_bloom_structure",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Proend"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BloomPytum"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Bloom"
+      },
+      {
+        "value": "CUSTOM:BloomingFalls"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

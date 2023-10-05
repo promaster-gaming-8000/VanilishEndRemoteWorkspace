@@ -1,0 +1,32 @@
+{
+  "group": "purpil_extra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purplet"
+    },
+    "1": {
+      "item": "vanilishend:purplet"
+    },
+    "2": {
+      "item": "vanilishend:purplet"
+    },
+    "3": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "4": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "5": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:magenta_bed",
+    "count": 1
+  }
+}

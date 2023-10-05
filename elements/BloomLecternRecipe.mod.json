@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "extra_bloom",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloomSlab"
+      },
+      {
+        "value": "CUSTOM:BloomSlab"
+      },
+      {
+        "value": "CUSTOM:BloomSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BOOKSHELF"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloomSlab"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LECTERN"
+    },
+    "name": "bloom_lectern_recipe",
+    "namespace": "minecraft"
+  }
+}

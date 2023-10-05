@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vanilishend:endinite_block",
+    "vanilishend:diamond_endinite_block",
+    "vanilishend:netherite_endinite_block"
+  ]
+}

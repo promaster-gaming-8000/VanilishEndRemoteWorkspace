@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "addition": {
+    "item": "vanilishend:endinite_ingot"
+  },
+  "result": {
+    "item": "vanilishend:netherite_endinite_leggings"
+  }
+}

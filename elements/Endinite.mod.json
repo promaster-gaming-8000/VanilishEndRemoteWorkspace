@@ -1,0 +1,74 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "endinite_helmet",
+    "enableBody": true,
+    "textureBody": "endinite_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "endinite_leggings",
+    "enableBoots": true,
+    "textureBoots": "endinite_boots",
+    "onBootsTick": {
+      "name": "EndiniteBootsSpecialAbility"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "endinite_",
+    "helmetName": "Endinite Helmet",
+    "bodyName": "Endinite Chestplate",
+    "leggingsName": "Endinite Leggings",
+    "bootsName": "Endinite Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 15,
+    "damageValueHelmet": 5,
+    "damageValueBody": 10,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 5,
+    "enchantability": 20,
+    "toughness": 1.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endinite.helmet"
+      },
+      {
+        "value": "CUSTOM:Endinite.body"
+      },
+      {
+        "value": "CUSTOM:Endinite.legs"
+      },
+      {
+        "value": "CUSTOM:Endinite.boots"
+      }
+    ]
+  }
+}

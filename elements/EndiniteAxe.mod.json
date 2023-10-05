@@ -1,0 +1,40 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endinite_axe",
+    "customModelName": "Normal",
+    "name": "Endinite Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 0.9,
+    "enchantability": 20,
+    "damageVsEntity": 8.0,
+    "usageCount": 4062,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnditeGem"
+      },
+      {
+        "value": "CUSTOM:EnditeStone"
+      },
+      {
+        "value": "CUSTOM:EndiniteIngot"
+      },
+      {
+        "value": "CUSTOM:EndiniteAxe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

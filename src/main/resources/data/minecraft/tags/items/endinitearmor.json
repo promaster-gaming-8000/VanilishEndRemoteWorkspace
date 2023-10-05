@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "vanilishend:netherite_endinite_chestplate",
+    "vanilishend:netherite_endinite_boots",
+    "vanilishend:netherite_endinite_leggings",
+    "vanilishend:endinite_chestplate",
+    "vanilishend:diamond_endinite_chestplate",
+    "vanilishend:netherite_endinite_helmet",
+    "vanilishend:diamond_endinite_helmet",
+    "vanilishend:endinite_boots",
+    "vanilishend:endinite_helmet",
+    "vanilishend:diamond_endinite_leggings",
+    "vanilishend:diamond_endinite_boots",
+    "vanilishend:endinite_leggings"
+  ]
+}

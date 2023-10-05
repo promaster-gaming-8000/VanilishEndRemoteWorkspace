@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vanilishend:polished_burned_endstone_wall",
+    "vanilishend:burned_endstone_wall",
+    "vanilishend:burned_endstone_brick_wall",
+    "vanilishend:smooth_burned_endstone_wall"
+  ]
+}

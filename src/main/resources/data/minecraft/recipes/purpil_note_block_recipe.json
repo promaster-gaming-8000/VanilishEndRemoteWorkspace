@@ -1,0 +1,42 @@
+{
+  "group": "purpil_extra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "1": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "2": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "3": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "6": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "7": {
+      "item": "vanilishend:purpil_planks"
+    },
+    "8": {
+      "item": "vanilishend:purpil_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:note_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "vanilishend:purpil_pytum",
+    "vanilishend:bloom_pytum",
+    "vanilishend:burned_endstone",
+    "vanilishend:burned_endstone_stairs",
+    "vanilishend:burned_endstone_slab",
+    "vanilishend:burned_endstone_wall",
+    "vanilishend:end_iron_ore",
+    "vanilishend:polished_burned_endstone",
+    "vanilishend:polished_burned_endstone_stairs",
+    "vanilishend:polished_burned_endstone_slab",
+    "vanilishend:polished_burned_endstone_wall",
+    "vanilishend:smooth_burned_endstone",
+    "vanilishend:smooth_burned_endstone_stairs",
+    "vanilishend:smooth_burned_endstone_slab",
+    "vanilishend:smooth_burned_endstone_wall",
+    "vanilishend:burned_endstone_bricks",
+    "vanilishend:burned_endstone_brick_stairs",
+    "vanilishend:burned_endstone_brick_slab",
+    "vanilishend:burned_endstone_brick_wall",
+    "vanilishend:endite",
+    "vanilishend:endite_falling_state"
+  ]
+}

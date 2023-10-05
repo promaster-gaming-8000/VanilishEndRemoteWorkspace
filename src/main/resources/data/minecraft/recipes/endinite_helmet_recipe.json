@@ -1,0 +1,29 @@
+{
+  "group": "endite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "1": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "2": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "3": {
+      "item": "vanilishend:endinite_ingot"
+    },
+    "5": {
+      "item": "vanilishend:endinite_ingot"
+    }
+  },
+  "result": {
+    "item": "vanilishend:endinite_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "endite",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Endite"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:EnditeStone"
+    },
+    "name": "endite_ore_to_endite_stone_by_furnace",
+    "namespace": "minecraft"
+  }
+}
